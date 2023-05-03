@@ -14,7 +14,7 @@
 #### Films | Books | Science
 
 ### 📫You can find me
-<a href = 'https://g.dev/francofantomius'><img src = "https://www.gstatic.com/devrel-devsite/prod/vee203323b4acaad275602f0b48b3125f75036b975cf3d4c3e73a17e21e9784ea/developers/images/favicon.png"> Google.dev </a> <br>
+<a href = 'https://g.dev/francofantomius'><img src = "./img/favicon.png"> Google.dev </a> <br>
 <a href = 'https://www.youtube.com/channel/UCrbBUEo71mET9CqQhI-Fuaw'><img src = "https://www.youtube.com/s/desktop/48993c9a/img/favicon_32x32.png"> Youtube </a> <br>
 <a href = 'https://www.reddit.com/user/Franco_Fantomius'><img src = "./img/reddit.svg"> Reddit </a>
 
